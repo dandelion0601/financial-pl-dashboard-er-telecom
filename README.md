@@ -61,10 +61,10 @@
 - Периодам (месяц, квартал, год)
 - 
 ![Дашборд PL]
-<img width="1632" height="734" alt="PL" src="https://github.com/user-attachments/assets/0778e36f-0dbd-445a-9074-420961e0a547" />
+<img width="1604" height="708" alt="PL" src="https://github.com/user-attachments/assets/cc086fe0-20d0-4c64-b2bd-d2f4d7511495" />
 
 ![Дашборд KPI]
-<img width="1731" height="707" alt="dashboard_kpi" src="https://github.com/user-attachments/assets/3774e85d-cfc9-4888-82a8-ba81880ada61" />
+<img width="1609" height="707" alt="dashboard_kpi" src="https://github.com/user-attachments/assets/68f0dc30-b5da-4bad-a15c-507492446220" />
 
 
 ##💡 Ключевые выводы и бизнес-эффект
